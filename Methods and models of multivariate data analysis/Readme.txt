@@ -1,1 +1,0 @@
-Multivariate data analysis labs
